@@ -1,4 +1,5 @@
 # FAQMaker
+### Everyone has questions. You have answers.
 #### originally by LogHound
 
 FAQMaker is a RapidWeaver plugin that builds simple FAQ pages for your RapidWeaver site.
