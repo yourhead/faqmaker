@@ -2,6 +2,8 @@
 ### Everyone has questions. You have answers.
 #### originally by LogHound
 
+![FAQMaker Icon](https://raw.githubusercontent.com/yourhead/faqmaker/master/icon_256.png)
+
 FAQMaker is a RapidWeaver plugin that builds simple FAQ pages for your RapidWeaver site.
 
 ### From the LogHound site
