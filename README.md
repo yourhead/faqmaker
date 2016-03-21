@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/yourhead/faqmaker.png?label=ready&title=Ready)](https://waffle.io/yourhead/faqmaker)
 # FAQMaker
 ### Everyone has questions. You have answers.
 #### originally by LogHound
