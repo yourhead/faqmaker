@@ -6,7 +6,7 @@
 
 ## Download
  - [Stable Release v2.90.7](https://github.com/yourhead/faqmaker/raw/v2.90.7/downloads/faqmaker_latest_rw6.zip)
- - [Beta Release v3.0.0 beta 1](https://github.com/yourhead/faqmaker/raw/v3.0.0b1/downloads/FaqMaker_3.0.0b1_1042.zip)
+ - [Beta Release v3.0.0 beta 1](https://github.com/yourhead/faqmaker/raw/v3.0.0b1/downloads/FaqMaker_3.0.0b1_1042.zip) -- [Release Notes](http://yourhead.com/appcast/RW6/FAQMaker/release_notes_3.0.0b1_1042)
 
 FAQMaker is a RapidWeaver plugin that builds simple FAQ pages for your RapidWeaver site.
 
