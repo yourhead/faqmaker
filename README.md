@@ -3,11 +3,11 @@
 #### originally by LogHound
 FAQMaker is a RapidWeaver plugin that builds simple FAQ pages for your RapidWeaver site.
 <style>
-img {
-            display:block;
-            float:right;
-            max-width:25%;
-        }
+.markdown-body img {
+display:block;
+float:right;
+max-width:25%;
+}
 
 </style>
 ![FAQMaker Icon](https://raw.githubusercontent.com/yourhead/faqmaker/master/assets/icon_256.png)
