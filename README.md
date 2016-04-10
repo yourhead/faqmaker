@@ -3,12 +3,11 @@
 #### originally by LogHound
 FAQMaker is a RapidWeaver plugin that builds simple FAQ pages for your RapidWeaver site.
 
-![FAQMaker Icon](https://raw.githubusercontent.com/yourhead/faqmaker/master/assets/icon_256.png)
-
 ## Download
  - [Stable Release v2.90.7](https://github.com/yourhead/faqmaker/raw/v2.90.7/downloads/faqmaker_latest_rw6.zip)
  - [Beta Release v3.0.0 beta 3](https://github.com/yourhead/faqmaker/raw/v3.0.0b3/downloads/FaqMaker_3.0.0b3_1066.zip) -- [Release Notes](http://yourhead.com/appcast/RW6/FAQMaker/release_notes_3.0.0b3_1066)
 
+<img src='https://raw.githubusercontent.com/yourhead/faqmaker/master/assets/icon_256.png' width=256 >
 
 ### From the LogHound site
 
